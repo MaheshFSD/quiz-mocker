@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which method is used to delete an item from an array",
+        "option_1": "push",
+        "option_2": "pop",
+        "option_3": "shift",
+        "option_4": "none",
+        "answer":  "option_2",
+        "explaination": "hello"
+      },
+      {
+        "question": "LocalStorage=sessionStorage",
+        "option_1": "yes",
+        "option_2": "no",
+        "option_3": "don't know",
+        "option_4": "sometimesng",
+        "answer": "option_2",
+        "explaination": "Yes Queue allows you to perform operations on both ends",
+        "id": 2
+      },
+      {
+        "question": "What is queue ",
+        "option_1": "FIFO",
+        "option_2": "LIFO",
+        "option_3": "MIFO",
+        "option_4": "string",
+        "answer": "option_1",
+        "explaination": "Yes Queue allows you to perform operations on both ends",
+        "id": 3
+      },
+      {
+        "question": "Is javascript same as java",
+        "option_1": "yes",
+        "option_2": "no",
+        "option_3": "don't know",
+        "option_4": "sometimesng",
+        "answer": "option_1",
+        "explaination": "Yes Queue allows you to perform operations on both ends",
+        "id": 4
+      },
+      {
+        "question": "LocalStorage=sessionStorage",
+        "option_1": "yes",
+        "option_2": "no",
+        "option_3": "don't know",
+        "option_4": "sometimesng",
+        "answer": "option_2",
+        "explaination": "Yes Queue allows you to perform operations on both ends",
+        "id": 5
+      }
+    ]
+  }
